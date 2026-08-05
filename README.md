@@ -2,7 +2,7 @@
 
 - Free desktop app for learning Roblox Luau scripting.
 
-<img width="1452" height="865" alt="Screenshot 2026-08-04 205707" src="https://github.com/user-attachments/assets/f3d5c77b-7d39-4313-bc32-58702d277b17" />
+<img width="1497" height="968" alt="Screenshot 2026-08-05 114909" src="https://github.com/user-attachments/assets/3a7eed9e-0806-4893-959b-9fcf0d5e404c" />
 
 ## What it contains:
 - 43 lessons, beginner to advanced — variables through DataStores,
