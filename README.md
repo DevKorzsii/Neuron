@@ -22,5 +22,5 @@ I got tired of watching video after video spending hours of my time expecting to
 <img width="357" height="131" alt="Screenshot 2026-08-05 154856" src="https://github.com/user-attachments/assets/8492c7db-fd15-4a09-bc24-d107466e693a" />
 
 ## Small Preview : 
-<img width="1501" height="972" alt="Screenshot 2026-08-05 121516" src="https://github.com/user-attachments/assets/14b32c9f-cab7-4801-9bf0-e712b9b2fd0a" />
+<img width="1507" height="972" alt="Screenshot 2026-08-05 222142" src="https://github.com/user-attachments/assets/f1e8960f-8867-42ab-a483-31dd9039104d" />
 
