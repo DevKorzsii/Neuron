@@ -18,7 +18,6 @@
 - 10 guided projects that produce working systems in Studio, explained line by line
 - Built-in Luau interpreter, with runtime errors translated into plain English
 - Quizzes with instant feedback and a review queue for anything answered incorrectly
-- Untimed throughout — no countdowns on any question
 - Points, unlockable titles and 13 themes
 - Progress saved automatically to `%APPDATA%\Neuron\progress.json`
 
