@@ -9,9 +9,8 @@
 
 ## Overview:
 
-Neuron teaches Roblox scripting from first principles through to advanced topics. It runs entirely on your own machine — no account, no internet connection, and no Roblox Studio needed to practice in.
+* Neuron essentially teaches and covers MOST of all topics all the way from Beginner to Expert and I can place with this with upmost accuracy that you will be capable of making a small game within 1 month!
 
-It exists because learning from video tutorials means hours of watching before writing a single line, with nothing to practice against. Every lesson here is followed immediately by a quiz, and any code can be run and tested inside the application.
 
 ## Features: 
 
