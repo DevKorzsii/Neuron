@@ -17,7 +17,7 @@ I got tired of watching video after video spending hours of my time expecting to
 * Download the latest `Neuron.exe` from [Releases](../../releases/latest).
 
 ### Community
-* Join our small community to create close friends or get help with anything you ask. [Our Discord Server](https://discord.gg/MVnKC34qhU)
+* Join our small community to create close friends or get help with anything you ask. [Our Discord Server: https://discord.gg/87CZjuBaeu]
 * Open source code is in the discord above ⬆️⬆️⬆️
 <img width="357" height="131" alt="Screenshot 2026-08-05 154856" src="https://github.com/user-attachments/assets/8492c7db-fd15-4a09-bc24-d107466e693a" />
 
