@@ -20,5 +20,5 @@ I got tired of watching video after video spending hours of my time expecting to
 * Discord Server: https://discord.gg/87CZjuBaeu
 
 ## Small Preview : 
-<img width="1503" height="972" alt="Screenshot 2026-08-07 151634" src="https://github.com/user-attachments/assets/0678b8f6-1cd0-4580-9b8d-ba4166cf0b14" />
+<img width="1758" height="1090" alt="Screenshot 2026-08-07 152843" src="https://github.com/user-attachments/assets/6344dd4b-61ff-49fb-938c-9079ce782193" />
 
