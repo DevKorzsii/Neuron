@@ -14,7 +14,7 @@ I got tired of watching video after video spending hours of my time expecting to
 * Now there's a lot more so I wont spoil it all, check it out yourself!
 
 ### Install
-* Download the latest `LuaLearn.exe` from [Releases](../../releases/latest).
+* Download the latest `Neuron.exe` from [Releases](../../releases/latest).
 
 ### Community
 * Join our small community to create close friends or get help with anything you ask. [Our Discord Server](https://discord.gg/MVnKC34qhU)
