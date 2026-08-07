@@ -1,24 +1,43 @@
-# Neuron
+<h1 align="center">Neuron</h1>
 
-### Why did I make this?
-I got tired of watching video after video spending hours of my time expecting to achieve greatness but as a hands on learner it make things extremely difficult so I decided to make a program COMPLETELY open source for everyone to use!
+<p align="center">
+  An open sourced application that will guarantee your professional future in Roblox Studio :)
+</p>
 
-### What does it contain?
-* 43 lessons, complete beginner to expert
-* 10 guided build projects, step by step with the reasoning behind
-  every line.
-* Quizzes with instant feedback and a review queue for what you missed
-* A built-in Lua runner that explains real error messages in plain
-  English
-* Progress saved automatically to `%APPDATA%\Neuron\progress.json`
-* Now there's a lot more so I wont spoil it all, check it out yourself!
+<p align="center">
+  <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/KorzsiiOfficial/Neuron?label=Download&style=flat-square" alt="Latest release"></a>
+  <a href="LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue?style=flat-square" alt="License"></a>
+  <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square" alt="Windows 10 or 11">
+</p>
 
-### How can I install this?
-* Download the latest `Neuron.exe` from [Releases](../../releases/latest).
+<img width="1758" height="1090" alt="Neuron" src="https://github.com/user-attachments/assets/6344dd4b-61ff-49fb-938c-9079ce782193" />
+
+### Overview:
+
+Neuron teaches Roblox scripting from first principles through to advanced topics. It runs entirely on your own machine — no account, no internet connection, and no Roblox Studio needed to practise in.
+
+It exists because learning from video tutorials means hours of watching before writing a single line, with nothing to practise against. Every lesson here is followed immediately by a quiz, and any code can be run and tested inside the application.
+
+### Features: 
+
+- 43 lessons spanning four tiers, from Beginner to Expert
+- 10 guided projects that produce working systems in Studio, explained line by line
+- Built-in Luau interpreter, with runtime errors translated into plain English
+- Quizzes with instant feedback and a review queue for anything answered incorrectly
+- Untimed throughout — no countdowns on any question
+- Points, unlockable titles and 13 themes
+- Progress saved automatically to `%APPDATA%\Neuron\progress.json`
+
+### Installation
+
+Download `Neuron.exe` from the [latest release](../../releases/latest) and run it. There is no installer — it is a single portable executable.
+Note - Windows may show *"Windows protected your PC"* because the executable is not code-signed. Select **More info → Run anyway**.
 
 ### Community
-* Discord Server: https://discord.gg/87CZjuBaeu
 
-## Small Preview : 
-<img width="1758" height="1090" alt="Screenshot 2026-08-07 152843" src="https://github.com/user-attachments/assets/6344dd4b-61ff-49fb-938c-9079ce782193" />
+- Discord — https://discord.gg/87CZjuBaeu
+- YouTube — https://www.youtube.com/@Korzsii
 
+### Licence
+
+[Apache 2.0](LICENSE). Neuron is not affiliated with or endorsed by Roblox Corporation.
