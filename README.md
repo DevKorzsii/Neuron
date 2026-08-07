@@ -24,7 +24,8 @@
 ## How do we install it? ⬇️
 
 Download `Neuron.exe` from the [latest release](../../releases/latest) and run it. 
-* Note - Windows may show *"Windows protected your PC"* because the executable is not code-signed. Select **More info → Run anyway**.
+* Note - Windows may show *"Windows protected your PC"* because the executable is not code-signed. 
+* Select **More info → Run anyway**.
 
 ## Join Our Community! 
 
