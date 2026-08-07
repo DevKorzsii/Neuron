@@ -10,7 +10,7 @@ I got tired of watching video after video spending hours of my time expecting to
 * Quizzes with instant feedback and a review queue for what you missed
 * A built-in Lua runner that explains real error messages in plain
   English
-* Progress saved automatically to `%APPDATA%\LuaLearn\progress.json`
+* Progress saved automatically to `%APPDATA%\Neuron\progress.json`
 * Now there's a lot more so I wont spoil it all, check it out yourself!
 
 ### Install
