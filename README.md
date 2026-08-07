@@ -1,4 +1,4 @@
-<h1 align="left">Neuron - Made by Korzsii</h1>
+<h1 align="left">Neuron</h1>
 
 <p align="left">
   <a href="../../releases/latest"><img src="https://img.shields.io/github/v/release/KorzsiiOfficial/Neuron?label=Download&style=flat-square" alt="Latest release"></a>
