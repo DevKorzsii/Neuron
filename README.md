@@ -1,4 +1,4 @@
-# LuaLearn
+# Neuron
 
 ### Why did I make this?
 I got tired of watching video after video spending hours of my time expecting to achieve greatness but as a hands on learner it make things extremely difficult so I decided to make a program COMPLETELY open source for everyone to use!
