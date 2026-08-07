@@ -6,12 +6,6 @@
   <img src="https://img.shields.io/badge/Windows-10%20%7C%2011-0078D6?style=flat-square" alt="Windows 10 or 11">
 </p>
 
-
-## Overview:
-
-* Neuron essentially teaches and covers MOST of all topics all the way from Beginner to Expert and I can place with this with upmost accuracy that you will be capable of making a small game within 1 month!
-
-
 ## Features: 
 
 * 43 lessons spanning four tiers, from Beginner to Expert
