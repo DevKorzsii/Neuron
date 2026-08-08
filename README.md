@@ -27,5 +27,4 @@ Download `Neuron.exe` from the [latest release](../../releases/latest) and run i
 * YouTube — https://www.youtube.com/@Korzsii
 
 ## Well, what does it look like?
-
-<img width="1758" height="1090" alt="Neuron" src="https://github.com/user-attachments/assets/6344dd4b-61ff-49fb-938c-9079ce782193" />
+<img width="1502" height="972" alt="Screenshot 2026-08-07 220158" src="https://github.com/user-attachments/assets/52663323-7633-4f19-915e-603453ceb292" />
